@@ -347,7 +347,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "synthcard.kicad_pro",
+    "filename": "sc_karltron.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -379,7 +379,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../../../Applications/KiCad/KiCad.app/Contents/Applications/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
