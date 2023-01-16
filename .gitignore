@@ -26,3 +26,4 @@ fp-info-cache
 *.csv
 sc_karltron/.DS_Store
 .DS_Store
+*.zip
