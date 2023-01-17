@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "fff51ff_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "80011f0_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
-    "filename": "synthcard.kicad_prl",
+    "filename": "sc_karltron.kicad_prl",
     "version": 3
   },
   "project": {
