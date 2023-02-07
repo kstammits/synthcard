@@ -1595,7 +1595,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5de02071-91a6-4615-bf1a-07fc94175d33)
   )
-  (text "schem untested\ndeveloped in circuit.js and breadboard\nbut physically not yet checked"
+  (text "tested working\ndeveloped in circuit.js and breadboard\n"
     (at 133.35 20.955 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 715f19aa-58e0-4403-a552-f5854fa3adf6)
@@ -1616,9 +1616,18 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bcc281c6-347c-4ad3-8e91-473fed140337)
   )
+  (text "Timing Capacitors are your choice\n1u gives 40Hz to 4kHz\n2.2uF gives 15Hz to 1.5kHz\n10uF gives 4Hz to 240Hz\nmix it up\ntested w/ tl074 on 5v and 12v"
+    (at 197.485 95.885 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid cc03e2b2-a089-4e35-b5aa-f93989b6fefa)
+  )
   (text "Buffer & Scale" (at 42.545 137.795 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid e2d00a92-2f52-403e-acf7-44cfd057f3f9)
+  )
+  (text "warning , no reverse polarity protection here" (at 118.745 172.72 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e3ba6d24-1205-4a82-82ad-0e6d58afe9e1)
   )
   (text "Relaxation Osc" (at 40.005 99.695 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))

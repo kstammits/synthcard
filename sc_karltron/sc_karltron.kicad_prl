@@ -63,7 +63,7 @@
       36
     ],
     "visible_layers": "8001370_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "sc_karltron.kicad_prl",
